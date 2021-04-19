@@ -1,0 +1,19 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "create a portfolio for practice my skills in html and css with bem and sass",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oscarjsv/Portfolio-practice.git"
+  },
+  "author": "Oscar sanchez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oscarjsv/Portfolio-practice/issues"
+  },
+  "homepage": "https://github.com/oscarjsv/Portfolio-practice#readme"
+}
