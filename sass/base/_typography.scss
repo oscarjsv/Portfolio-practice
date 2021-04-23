@@ -1,6 +1,22 @@
 body {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 400;
   /* font-size: 16px; */
   line-height: 1.6;
+}
+
+.info {
+  &__text--1 {
+    font-size: 2.8rem;
+    line-height: 3.6rem;
+    margin-bottom: -.5rem;
+    
+  }
+
+  &__text--p {
+    font-size: 1.2rem;
+    font-weight: 400;
+    line-height: $default-font-size;
+    color: $color-p;
+  }
 }
